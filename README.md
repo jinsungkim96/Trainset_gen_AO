@@ -12,6 +12,6 @@ The OOMAO sources are hosted by GitHub (https://github.com/rconan/OOMAO).
 
 ## References
 
-[[4]] R. Conan and C. Correia, “Object-oriented Matlab adaptive optics toolbox,” in Adaptive Optics Systems IV (E. Marchetti, L. M. Close, and J.-P. Vran, eds.), vol. 9148 of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, p. 91486C, Aug. 2014.
+[[1]] R. Conan and C. Correia, “Object-oriented Matlab adaptive optics toolbox,” in Adaptive Optics Systems IV (E. Marchetti, L. M. Close, and J.-P. Vran, eds.), vol. 9148 of Society of Photo-Optical Instrumentation Engineers (SPIE) Conference Series, p. 91486C, Aug. 2014.
 
 
